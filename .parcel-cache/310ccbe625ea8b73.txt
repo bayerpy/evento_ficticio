@@ -1,11 +1,11 @@
-6485
+6492
 129C:\Progamador\Projetos\landing_page\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub133638267789849537 1
 84C:\Progamador\Projetos\landing_page\node_modules\@parcel\utils\src\getCertificate.js133638267778700358 0
 97C:\Progamador\Projetos\landing_page\node_modules\source-map-support\browser-source-map-support.js133638267764968802 0
 57C:\Progamador\Projetos\landing_page\node_modules\css-what133638267777659720 1
 107C:\Progamador\Projetos\landing_page\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.js133638267774716703 0
 72C:\Progamador\Projetos\landing_page\node_modules\react-error-overlay\lib133638267765309578 1
-46C:\Progamador\Projetos\landing_page\.gitignore133643510909619421 0
+46C:\Progamador\Projetos\landing_page\.gitignore133651312811140447 0
 95C:\Progamador\Projetos\landing_page\node_modules\caniuse-lite\data\features\webkit-user-drag.js133638267815885200 0
 68C:\Progamador\Projetos\landing_page\node_modules\color-name\index.js133638267765265104 0
 57C:\Progamador\Projetos\landing_page\node_modules\mdn-data133638267781055856 1
@@ -14,12 +14,12 @@
 110C:\Progamador\Projetos\landing_page\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133638267781044566 0
 76C:\Progamador\Projetos\landing_page\node_modules\@parcel\runtime-browser-hmr133638267772831431 1
 105C:\Progamador\Projetos\landing_page\node_modules\legacy-swc-helpers\lib\_tagged_template_literal_loose.js133638267788443677 0
-48C:\Progamador\Projetos\landing_page\package.json133651262654761802 0
+48C:\Progamador\Projetos\landing_page\package.json133653540734619272 0
 96C:\Progamador\Projetos\landing_page\node_modules\legacy-swc-helpers\src\_object_spread_props.mjs133638267794708092 0
 86C:\Progamador\Projetos\landing_page\node_modules\posthtml\node_modules\posthtml-parser133638267769767719 1
 77C:\Progamador\Projetos\landing_page\node_modules\sass\types\value\string.d.ts133638270759182112 0
 112C:\Progamador\Projetos\landing_page\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\Lexer.js133638267788844354 0
-40C:\Progamador\Projetos\landing_page\dist133651305500026740 1
+40C:\Progamador\Projetos\landing_page\dist133653540796035029 1
 69C:\Progamador\Projetos\landing_page\node_modules\ordered-binary\.idea133638267776017543 1
 74C:\Progamador\Projetos\landing_page\node_modules\type-fest\ts41\index.d.ts133638267777120466 0
 83C:\Progamador\Projetos\landing_page\node_modules\css-tree\cjs\syntax\node\Block.cjs133638267773903634 0
@@ -896,6 +896,7 @@
 79C:\Progamador\Projetos\landing_page\node_modules\@parcel\core\src\serializer.js133638267793550895 0
 80C:\Progamador\Projetos\landing_page\node_modules\utility-types\dist\index.js.map133638267773509249 0
 83C:\Progamador\Projetos\landing_page\node_modules\utility-types\dist\mapped-types.js133638267768860675 0
+62C:\Progamador\Projetos\landing_page\dist\index.1b522878.js.map133653540796025056 0
 108C:\Progamador\Projetos\landing_page\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133638267778770228 0
 104C:\Progamador\Projetos\landing_page\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133638267797467723 0
 78C:\Progamador\Projetos\landing_page\node_modules\svgo\plugins\removeViewBox.js133638267790119993 0
@@ -1313,6 +1314,7 @@
 83C:\Progamador\Projetos\landing_page\node_modules\legacy-swc-helpers\lib\_extends.js133638267783544075 0
 91C:\Progamador\Projetos\landing_page\node_modules\@jridgewell\source-map\dist\source-map.mjs133638267774357007 0
 80C:\Progamador\Projetos\landing_page\node_modules\caniuse-lite\data\regions\BD.js133638267786554798 0
+71C:\Progamador\Projetos\landing_page\dist\music-8559592_640.37732774.jpg133653540787467941 0
 59C:\Progamador\Projetos\landing_page\node_modules\semver\bin133638267765347050 1
 67C:\Progamador\Projetos\landing_page\node_modules\term-size\index.js133638267770895686 0
 85C:\Progamador\Projetos\landing_page\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133638267785269771 0
@@ -3958,7 +3960,7 @@
 95C:\Progamador\Projetos\landing_page\node_modules\@parcel\node-resolver-core\test\fixture\foo.js133638267779914139 0
 102C:\Progamador\Projetos\landing_page\node_modules\css-select\node_modules\domutils\lib\helpers.d.ts.map133638267779337096 0
 96C:\Progamador\Projetos\landing_page\node_modules\css-select\node_modules\domutils\lib\helpers.js133638267769767719 0
-51C:\Progamador\Projetos\landing_page\dist\index.html133651305500016784 0
+51C:\Progamador\Projetos\landing_page\dist\index.html133653540795975187 0
 98C:\Progamador\Projetos\landing_page\node_modules\css-select\node_modules\domutils\lib\index.js.map133638267780780164 0
 95C:\Progamador\Projetos\landing_page\node_modules\css-select\node_modules\domutils\lib\legacy.js133638267773549118 0
 83C:\Progamador\Projetos\landing_page\node_modules\caniuse-lite\data\features\midi.js133638267807234939 0
@@ -5026,6 +5028,7 @@
 77C:\Progamador\Projetos\landing_page\node_modules\@swc\helpers\src\_update.mjs133638267806033156 0
 91C:\Progamador\Projetos\landing_page\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133638267806086527 0
 81C:\Progamador\Projetos\landing_page\node_modules\@swc\helpers\scripts\ast_grep.js133638267798990872 0
+59C:\Progamador\Projetos\landing_page\dist\index.ce851acc.css133653540795975187 0
 79C:\Progamador\Projetos\landing_page\node_modules\@swc\helpers\scripts\errors.js133638267799056609 0
 90C:\Progamador\Projetos\landing_page\node_modules\@babel\highlight\node_modules\chalk\types133638267770805361 1
 78C:\Progamador\Projetos\landing_page\node_modules\@swc\helpers\scripts\utils.js133638267799135871 0
@@ -6478,7 +6481,11 @@
 60C:\Progamador\Projetos\landing_page\node_modules\.bin\terser133638267821520324 0
 76C:\Progamador\Projetos\landing_page\node_modules\.bin\update-browserslist-db133638267821520324 0
 80C:\Progamador\Projetos\landing_page\node_modules\.bin\update-browserslist-db.ps1133638267821520324 0
+71C:\Progamador\Projetos\landing_page\dist\beach-1867524_640.4d8555bd.jpg133653540786350926 0
 71C:\Progamador\Projetos\landing_page\dist\dark-1845065_1920.086238b1.jpg133651304013298740 0
+71C:\Progamador\Projetos\landing_page\dist\dark-1845065_1920.b4878bc2.jpg133653540787467941 0
+58C:\Progamador\Projetos\landing_page\dist\index.1b522878.js133653540795975187 0
+63C:\Progamador\Projetos\landing_page\dist\index.ce851acc.css.map133653540796025056 0
 58C:\Progamador\Projetos\landing_page\dist\index.f75de5e1.js133651304013298740 0
 62C:\Progamador\Projetos\landing_page\dist\index.f75de5e1.js.map133651304013348694 0
 48C:\Progamador\Projetos\landing_page\dist\scripts133651304013358665 1
